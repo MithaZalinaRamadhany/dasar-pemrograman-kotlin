@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49a344c5-b58a-4c44-83a1-f69918615a09" name="Changes" comment="Add MainApp.kt" />
+    <list default="true" id="49a344c5-b58a-4c44-83a1-f69918615a09" name="Changes" comment="Add Literal.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Whitespaces.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MainApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/MainApp.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -29,14 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.LiteralKt">
+}</component>
+  <component name="RunManager" selected="Kotlin.WhitespacesKt">
     <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LiteralKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -51,8 +56,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhitespacesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhitespacesKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhitespacesKt" />
         <item itemvalue="Kotlin.LiteralKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
@@ -81,13 +94,20 @@
       <option name="project" value="LOCAL" />
       <updated>1725284370495</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Literal.kt">
+      <created>1725284563809</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725284563809</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Push stater project." />
-    <MESSAGE value="Add Literal.kt" />
     <MESSAGE value="Add MainApp.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add MainApp.kt" />
+    <MESSAGE value="Add Literal.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Literal.kt" />
   </component>
 </project>
