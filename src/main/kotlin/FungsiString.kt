@@ -4,6 +4,7 @@ fun main(args: Array<String>) {
     println(s.endsWith("tamus"))
     println(s.contains("pot"))
     println(s.contains("lol"))
+
     //toUpperCase() and toLowerCase()
     var config = "Fullscreen shaDows autosave"
     config = config.toLowerCase()
@@ -15,6 +16,7 @@ fun main(args: Array<String>) {
     println(config.contains("nosound"))
     println("Would the player like to use autosave?")
     println(config.contains("autosave"))
+
     //replace()
     var strJava = "Java is the best!"
     strJava = strJava.replace("Java", "Kotlin")
@@ -24,4 +26,5 @@ fun main(args: Array<String>) {
     println("I would not banish all of these Internets.".substring(2, 7))
     //compareTo()
     println("alpha".compareTo("bravo"))
+
 }
