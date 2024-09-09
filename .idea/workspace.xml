@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49a344c5-b58a-4c44-83a1-f69918615a09" name="Changes" comment="Add Tugas." />
+    <list default="true" id="49a344c5-b58a-4c44-83a1-f69918615a09" name="Changes" comment="Add Tugas.">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/String.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/String.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +48,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.StringTemplatesKt">
+  <component name="RunManager" selected="Kotlin.StringKt">
     <configuration name="CharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -68,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RepresentasiKt" />
+    <configuration name="StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StringKt" />
         <item itemvalue="Kotlin.StringTemplatesKt" />
         <item itemvalue="Kotlin.KonverEksplisitCharKt" />
         <item itemvalue="Kotlin.CharKt" />
         <item itemvalue="Kotlin.KonversiEksplisitKt" />
-        <item itemvalue="Kotlin.RepresentasiKt" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725861630187</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Add Tugas.">
+      <created>1725862023735</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1725862023735</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
