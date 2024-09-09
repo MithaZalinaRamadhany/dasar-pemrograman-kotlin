@@ -46,9 +46,16 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.UnderscoreLiteralKt">
+  <component name="RunManager" selected="Kotlin.RepresentasiKt">
     <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepresentasiKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,20 +82,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RepresentasiKt" />
         <item itemvalue="Kotlin.UnderscoreLiteralKt" />
         <item itemvalue="Kotlin.ConstantsLiteralKt" />
         <item itemvalue="Kotlin.TipeDataFloatKt" />
         <item itemvalue="Kotlin.TipeDataKt" />
-        <item itemvalue="Kotlin.ValKt" />
       </list>
     </recent_temporary>
   </component>
