@@ -46,7 +46,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.RawStringKt">
+  <component name="RunManager" selected="Kotlin.StringTemplatesKt">
     <configuration name="RawStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RawStringKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StringTemplatesKt" />
         <item itemvalue="Kotlin.RawStringKt" />
         <item itemvalue="Kotlin.RawStringNoSpasiKt" />
         <item itemvalue="Kotlin.StringTipeDataLainKt" />
         <item itemvalue="Kotlin.StringKt" />
-        <item itemvalue="Kotlin.StringTemplatesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725862579938</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add Tugas.">
+      <created>1725862869886</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1725862869886</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
