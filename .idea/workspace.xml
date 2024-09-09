@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49a344c5-b58a-4c44-83a1-f69918615a09" name="Changes" comment="Add Tugas.">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/String.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/String.kt" afterDir="false" />
-    </list>
+    <list default="true" id="49a344c5-b58a-4c44-83a1-f69918615a09" name="Changes" comment="Add Tugas." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,15 +47,15 @@
   }
 }]]></component>
   <component name="RunManager" selected="Kotlin.RawStringKt">
-    <configuration name="KonverEksplisitCharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KonverEksplisitCharKt" />
+    <configuration name="RawStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RawStringKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RawStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RawStringKt" />
+    <configuration name="RawStringNoSpasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RawStringNoSpasiKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,10 +85,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.RawStringKt" />
+        <item itemvalue="Kotlin.RawStringNoSpasiKt" />
         <item itemvalue="Kotlin.StringTipeDataLainKt" />
         <item itemvalue="Kotlin.StringKt" />
         <item itemvalue="Kotlin.StringTemplatesKt" />
-        <item itemvalue="Kotlin.KonverEksplisitCharKt" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +248,35 @@
       <option name="project" value="LOCAL" />
       <updated>1725862023735</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add Tugas.">
+      <created>1725862211518</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1725862211518</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Add Tugas.">
+      <created>1725862340668</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725862340668</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add Tugas.">
+      <created>1725862437436</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725862437436</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add Tugas.">
+      <created>1725862579938</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1725862579938</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
