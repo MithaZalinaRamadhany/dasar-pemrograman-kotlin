@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49a344c5-b58a-4c44-83a1-f69918615a09" name="Changes" comment="Add Tugas.">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SandiMorse.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ReadLine1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.SandiMorseKt">
+  <component name="RunManager" selected="Kotlin.ReadLine1Kt">
     <configuration name="CaesarChiperKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CaesarChiperKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -71,6 +70,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReadLine1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadLine1Kt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SandiMorseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SandiMorseKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -78,20 +84,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTemplatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringTemplatesKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ReadLine1Kt" />
         <item itemvalue="Kotlin.SandiMorseKt" />
         <item itemvalue="Kotlin.CaesarChiperKt" />
         <item itemvalue="Kotlin.PenerapanStringKt" />
         <item itemvalue="Kotlin.FungsiStringKt" />
-        <item itemvalue="Kotlin.StringTemplatesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725863763040</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Add Tugas.">
+      <created>1725864050969</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1725864050969</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
